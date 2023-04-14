@@ -1,0 +1,22 @@
+{
+    "name": "hotellerie/structure",
+    "description": "Structure MVC Objet",
+    "type": "project",
+    "license": "OpenSource",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "Controller\\": "Controller/",
+            "Model\\": "Model/"    
+        }
+    },
+    "authors": [
+        {
+            "name": "hotellerie",
+            "email": "deschambreskevinpro@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
