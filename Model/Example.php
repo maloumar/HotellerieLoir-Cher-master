@@ -39,3 +39,5 @@ class NomClass extends Db
 }
 
 ?>
+
+e
